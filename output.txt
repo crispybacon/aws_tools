@@ -1,0 +1,31 @@
+AWS Security Investigation Report
+==============================
+
+Report generated at: 2025-03-31 14:00:32
+
+Overall Summary
+---------------
+Total unique users: 1
+Total unique roles: 0
+Total unique groups: 0
+Total unique IP addresses: 2
+
+Details by Region
+---------------
+
+Region: us-east-1
+  IP Addresses:
+    - 173.72.178.22
+    - config.amazonaws.com
+  Users:
+    - Administrator
+  Roles:
+  Groups:
+
+Region: us-west-2
+  IP Addresses:
+    - 173.72.178.22
+  Users:
+    - Administrator
+  Roles:
+  Groups:
